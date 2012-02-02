@@ -1,0 +1,12 @@
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\bin\Release\SSLinebeck_wf.exe.config
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\bin\Release\SSLinebeck_wf.exe
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\bin\Release\SSLinebeck_wf.pdb
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\bin\Release\UltraID3Lib.dll
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\bin\Release\UltraID3Lib.xml
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\SSLinebeck_wf.Form1.resources
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\SSLinebeck_wf.Properties.Resources.resources
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\SSLinebeck_wf.exe
+C:\Users\jeff\Desktop\linebeck\SSLinebeck_wf\SSLinebeck_wf\obj\x86\Release\SSLinebeck_wf.pdb
